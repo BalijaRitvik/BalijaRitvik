@@ -3,7 +3,7 @@
 
 - 🌱 I’m passionate about web development and data structures and algorithms
 
-- 📫 How to reach me **balija.ritvik.u@gmail.com**
+- 📫 How to reach me **balija.ritvik@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
